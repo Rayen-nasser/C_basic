@@ -1,0 +1,49 @@
+Code : 001
+Nom : T-shirt
+Prix : 19.99
+Quantite : 50
+
+Code : 002
+Nom : Jeans
+Prix : 49.99
+Quantite : 30
+
+Code : 003
+Nom : Chaussures
+Prix : 79.99
+Quantite : 20
+
+Code : 004
+Nom : Sac à dos
+Prix : 39.99
+Quantite : 40
+
+Code : 005
+Nom : Montre
+Prix : 99.99
+Quantite : 15
+
+Code : 006
+Nom : Casquette
+Prix : 9.99
+Quantite : 100
+
+Code : 007
+Nom : Robe
+Prix : 59.99
+Quantite : 25
+
+Code : 008
+Nom : Cravate
+Prix : 24.99
+Quantite : 50
+
+Code : 009
+Nom : Chaussettes
+Prix : 4.99
+Quantite : 200
+
+Code : 010
+Nom : Pantalon
+Prix : 34.99
+Quantite : 35

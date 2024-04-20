@@ -1,0 +1,32 @@
+#include<stdio.h>
+main()
+{
+    int t[10],i,pair=1,impair=1,tp[100],ti[100];
+    for(i=0;i<10;i++)
+    {
+        printf("t[%d]=",i+1);
+        scanf("%d",&t[i]);
+    }
+    for(i=0;i<10;i++)
+    {
+        if(t[i]%2==0)
+        {
+            tp[pair]=t[i];
+            pair++;
+        }
+        else{
+            ti[impair]=t[i];
+            impair++;
+        }
+    }
+    printf("\n");
+     for(i=0;i<pair;i++)
+    {
+        printf("%d\t",tp[i]);
+    }
+    printf("\n");
+     for(i=0;i<impair;i++)
+    {
+        printf("%d\t",ti[i]);
+    }
+}
